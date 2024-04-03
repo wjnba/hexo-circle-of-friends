@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://www.wjnba.top/link/
+- link: https://www.wjnba.top/link/,https://fe32.top/link/
   theme: butterfly
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
