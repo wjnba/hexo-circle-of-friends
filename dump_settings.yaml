@@ -21,7 +21,7 @@ LINK:
 - link: https://wjldarling.top/social/link/
   theme: butterfly
 MAX_POSTS_NUM: 5
-OUTDATE_CLEAN: 0
+OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
