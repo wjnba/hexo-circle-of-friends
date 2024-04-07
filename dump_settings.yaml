@@ -18,8 +18,6 @@ HTTP_PROXY: false
 LINK:
 - link: https://www.wjnba.top/link/
   theme: butterfly
-- link: https://fe32.top/link/
-  theme: butterfly
 - link: https://wjldarling.top/social/link/
   theme: butterfly
 MAX_POSTS_NUM: 5
