@@ -20,6 +20,8 @@ LINK:
   theme: butterfly
 - link: https://wjldarling.top/social/link/
   theme: butterfly
+- link: https://blog.leonus.cn/link/
+  theme: butterfly
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
